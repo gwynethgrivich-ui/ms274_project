@@ -1,2 +1,3 @@
 # ms274_project
-Repository for code in the MS 274 project
+
+These are my files for my MS 274 project.
